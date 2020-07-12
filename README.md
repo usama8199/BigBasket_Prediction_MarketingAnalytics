@@ -32,4 +32,4 @@ We have train (8523) and test (5681) data set, train data set has both input and
 13. Item_Outlet_Sales: 	Sales of the product in the particular store. This is the outcome variable to be predicted.
 
 ## Video of the Analysis and prediction
-[<img src="https://img.youtube.com/vi/rvDZ_jIoIho/maxresdefault.jpg" width="75%">](https://youtu.be/rvDZ_jIoIho)
+[<img src="https://img.youtube.com/vi/rvDZ_jIoIho/maxresdefault.jpg" width="60%">](https://youtu.be/rvDZ_jIoIho)
