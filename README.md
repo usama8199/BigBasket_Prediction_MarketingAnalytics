@@ -5,8 +5,6 @@ The data scientists at BigMart have collected 2013 sales data for 1559 products 
 
 Using this model, BigMart will try to understand the properties of products and outlets which play a key role in increasing sales.
 
-Data may have missing values as some stores might not report all the data due to technical glitches. Hence, it will be required to treat them accordingly. 
-
 ## Overview
 1. Fill the null value with the help of imputer method
 2. Analyze the data to derive different insights and help to choose the algorithm
