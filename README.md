@@ -8,7 +8,7 @@ The data scientists at BigMart have collected 2013 sales data for 1559 products 
 Using this model, BigMart will try to understand the properties of products and outlets which play a key role in increasing sales.
 
 ## Overview
-1. Fill the null value with the help of imputer method
+1. Deal with the null value with the help of imputer method in Python
 2. Analyze the data to derive different insights and help to choose the algorithm
 3. Compare different algorithm and selected Extra Trees Regressor based on negative mean absolute error with score of -753.9840726814722
 ## Data Dictionary
