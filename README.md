@@ -1,5 +1,6 @@
 # BigBasket_Prediction_MarketingAnalytics
-This project is a hackathon conducted by Analytics Vidhya, is a market business problem where sales of each store must be predicted. **My model is at the top 100 of the LeaderBoard**
+This project is a hackathon conducted by Analytics Vidhya, is a market business problem where sales of each store must be predicted.
+**My model is at the top 100 of the LeaderBoard**
 ## Problem Statement
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
 
