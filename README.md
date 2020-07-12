@@ -2,15 +2,17 @@
 This project is a hackathon conducted by Analytics Vidhya, is a market business problem where sales of each store must be predicted.
 
 **My model is at the top 100 of the LeaderBoard**
-## Problem Statement
-The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
-
-Using this model, BigMart will try to understand the properties of products and outlets which play a key role in increasing sales.
 
 ## Overview
 1. Deal with the null value with the help of imputer method in Python
 2. Analyze the data to derive different insights and help to choose the algorithm
 3. Compare different algorithm and selected Extra Trees Regressor based on negative mean absolute error with score of -753.9840726814722
+
+## Problem Statement
+The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
+
+Using this model, BigMart will try to understand the properties of products and outlets which play a key role in increasing sales.
+
 ## Data Dictionary
 
 We have train (8523) and test (5681) data set, train data set has both input and output variable(s)
