@@ -29,7 +29,7 @@ We have train (8523) and test (5681) data set, train data set has both input and
 10. Outlet_Size: 	The size of the store in terms of ground area covered
 11. Outlet_Location_Type: 	The type of city in which the store is located
 12. Outlet_Type: 	Whether the outlet is just a grocery store or some sort of supermarket
-13. Item_Outlet_Sales: 	Sales of the product in the particular store. This is the outcome variable to be predicted.
+13. Item_Outlet_Sales: 	Sales of the product in the particular store. This is the outcome variable to be predicted
 
 ## Video of the Analysis and prediction
 [<img src="https://img.youtube.com/vi/rvDZ_jIoIho/maxresdefault.jpg" width="60%">](https://youtu.be/rvDZ_jIoIho)
