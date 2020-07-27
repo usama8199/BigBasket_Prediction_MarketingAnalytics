@@ -31,5 +31,18 @@ We have train (8523) and test (5681) data set, train data set has both input and
 12. Outlet_Type: 	Whether the outlet is just a grocery store or some sort of supermarket
 13. Item_Outlet_Sales: 	Sales of the product in the particular store. This is the outcome variable to be predicted
 
+## Insights
+1. Item visibility and item sales outlet is left skewed is left skewed, we can use standard scalar for normalization
+2. as we can see in the plot they are not seperated by linear regression we can try decision tree, random forest or boosting technique to split the and predict data(using information gain or gini index) or SVR
+3. We can see that low sales has comparatively low visibility
+4. High MRP has comparatively low sales
+5. Mean are almost the same for low fat and regular but regular has little more sales than lowfat
+6. soft drinks, baking goods, and health and hygene has comparatively low sales
+7. Grocery store has a really low sales
+8. Teir has comparatively low sales
+9. 1998 we can see has low sales
+10. small size has comparatively low sales
+
+
 ## Video of the Analysis and prediction
 [<img src="https://img.youtube.com/vi/rvDZ_jIoIho/maxresdefault.jpg" width="60%">](https://youtu.be/rvDZ_jIoIho)
